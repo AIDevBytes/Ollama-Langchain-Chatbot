@@ -1,5 +1,5 @@
 """
-Orignal Author: DevTechBytes
+DevTechBytes
 https://www.youtube.com/@DevTechBytes
 """
 class Config:
